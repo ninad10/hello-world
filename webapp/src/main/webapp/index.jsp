@@ -3,6 +3,7 @@
     <h1>New user Register</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
+    <br>
 
     <label for="Name"><b>Name </b></label>
     <input type="text" placeholder="Enter Name" name="Name" id="Name" required>
